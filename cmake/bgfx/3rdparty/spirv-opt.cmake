@@ -121,6 +121,7 @@ file(
 	${SPIRV_TOOLS}/source/val/validate_layout.cpp
 	${SPIRV_TOOLS}/source/val/validate_literals.cpp
 	${SPIRV_TOOLS}/source/val/validate_logicals.cpp
+	${SPIRV_TOOLS}/source/val/validate_logical_pointers.cpp
 	${SPIRV_TOOLS}/source/val/validate_memory.cpp
 	${SPIRV_TOOLS}/source/val/validate_memory_semantics.cpp
 	${SPIRV_TOOLS}/source/val/validate_mesh_shading.cpp
